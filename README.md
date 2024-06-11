@@ -1,4 +1,4 @@
-# Predicting Hotel Prices Using Machine Learning
+# Predicting Hotel Prices Using Support Vector Regression
 
 ## Description
 Kyozo, a global hotel chain, seeks to develop a machine learning model to predict hotel prices for their new developments. As a data consultant, you are provided with a dataset from their existing hotels and tasked with creating a predictive model. The dataset includes various features and corresponding prices of thousands of Kyozo's current hotels.
