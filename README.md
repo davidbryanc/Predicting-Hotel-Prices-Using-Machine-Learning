@@ -21,6 +21,10 @@ The dataset includes various features of existing hotels such as:
 - Customer ratings
 - Historical pricing information
 
+## Result
+
+Mean Absolute Error: 6914.9734
+
 ## Team Member
 | Name | University |
 |:----------------:|---------------------------|
